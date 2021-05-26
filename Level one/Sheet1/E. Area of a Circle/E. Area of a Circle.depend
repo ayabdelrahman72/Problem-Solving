@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611929277 source:d:\career build\icpc\sheet1\e. area of a circle\main.cpp
+	<iostream>
+	<math.h>
+	<iomanip>
+

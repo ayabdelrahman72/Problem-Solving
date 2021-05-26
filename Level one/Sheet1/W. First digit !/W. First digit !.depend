@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611855041 source:d:\career build\icpc\sheet1\w. first digit !\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	<conio.h>
+
