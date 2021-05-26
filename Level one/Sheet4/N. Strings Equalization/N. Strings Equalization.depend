@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618086220 source:d:\career build\icpc\sheet4\n. strings equalization\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

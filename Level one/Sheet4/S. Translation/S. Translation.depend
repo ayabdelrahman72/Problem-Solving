@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618177028 source:d:\career build\icpc\sheet4\s. translation\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
